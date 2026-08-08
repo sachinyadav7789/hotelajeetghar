@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   // Placeholder for booking buttons
-  window.bookingPlaceholder = function() {
+  window.bookingPlaceholder = function(){
     alert('In production, this would link to your booking engine or OTA partner.');
     return false;
   };
